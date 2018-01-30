@@ -1,0 +1,12 @@
+---
+expectations:
+- binding: anteriorDoTriplo
+  inspection: Uses:triplo
+- binding: anteriorDoTriplo
+  inspection: Uses:anterior
+- binding: triplo
+  inspection: Uses
+- binding: anterior
+  inspection: Uses
+- binding: anteriorDoTriplo
+  inspection: Uses
