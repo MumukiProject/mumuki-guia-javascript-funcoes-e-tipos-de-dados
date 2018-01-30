@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresFunction:estaEntre
+- binding: "*"
+  inspection: DeclaresFunction:estaForaDoAlcance
