@@ -10,7 +10,7 @@ E também podemos usá-los dentro de outras funções! Por exemplo:
 
 ``` javascript
 function dobro(numero) {
-  return 2 * numero
+  return 2 * numero;
 }
  
 function seguinteDoDobro(numero) {
@@ -22,11 +22,11 @@ Ou melhor ainda:
 
 ``` javascript
 function dobro(numero) {
-  return 2 * numero
+  return 2 * numero;
 }
  
 function seguinte(numero) {
-  return numero + 1
+  return numero + 1;
 }
  
 function seguinteDoDobro(numero) {
