@@ -14,5 +14,5 @@ estamos dando um exemplo que mostra o que acontece quando você tenta a função
 > Vamos ver se você vai entendendo, experimente as seguintes expressões no console:
 
 > * `4 + 5`
-> * `absoluto (-20)` 
+> * `absoluto(-20)` 
 > * `funcaoLouca(1, 2, 3)` (assuma que nós já a codificamos por você)
