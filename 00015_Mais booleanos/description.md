@@ -1,10 +1,10 @@
 Para terminar, agora que já vimos como escrever a alternativa condicional, é hora de um pequeno lembrete: se você usa corretamente as expressões booleanas, não precisa usar essa estrutura de controle!
 
-Suponhamos que queiramos desenvolver uma função `eMaiorDeEdade`, que nos diz se alguém tem 18 anos ou mais. Uma tentação é escrever o seguinte:
+Suponhamos que queiramos desenvolver uma função `eMaiorDeIdade`, que nos diz se alguém tem 18 anos ou mais. Uma tentação é escrever o seguinte:
 
 ``` javascript
-function eMaiorDeEdade(edade) {
-  if (edade >= 18) {
+function eMaiorDeIdade(idade) {
+  if (idade >= 18) {
     return true;
   } else {
     return false;
@@ -15,8 +15,8 @@ function eMaiorDeEdade(edade) {
 No entanto, **esse `if` é totalmente desnecessário**, dado que a expressão `edad >= 18` já é booleana:
 
 ``` javascript
-function eMaiorDeEdade(edade) {
-  return edade >= 18;
+function eMaiorDeIdade(idade) {
+  return idade >= 18;
 }
 ```
 
