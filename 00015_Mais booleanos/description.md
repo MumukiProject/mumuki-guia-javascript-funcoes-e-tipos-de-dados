@@ -20,7 +20,7 @@ function eMaiorDeIdade(idade) {
 }
 ```
 
-Muito mais simples, não é? :wink:
+Muito mais simples, não acha? :wink:
 
 > Jorge diz que para ele um número dá sorte se
 
