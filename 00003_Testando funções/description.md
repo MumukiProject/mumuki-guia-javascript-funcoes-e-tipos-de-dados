@@ -5,7 +5,7 @@ O console é uma ferramenta muito útil para fazer testes rápidos sobre o que v
 É por isso que muitas vezes vamos dar exemplos usando o console. Se escrevemos:
 
 ``` javascript
-absoluto(-20)
+ム absoluto(-20)
 20
 ```
 
