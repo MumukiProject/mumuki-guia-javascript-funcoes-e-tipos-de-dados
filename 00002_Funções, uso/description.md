@@ -14,7 +14,7 @@ function dobro(numero) {
 }
  
 function seguinteDoDobro(numero) {
-   return doble(numero) + 1;
+   return dobro(numero) + 1;
 }
 ```
 
