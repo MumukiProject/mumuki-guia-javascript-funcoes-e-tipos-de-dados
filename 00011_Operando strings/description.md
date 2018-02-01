@@ -12,7 +12,7 @@ Ou podemos também _uni-los_, ou seja, obter **um novo** que junte dois strings:
 ``` javascript
 ム "aa" + "bb"
 "aabb"
-ム "suas prateleiras" + "registram todas as combinações"
+ム "suas prateleiras " + "registram todas as combinações"
 "suas prateleiras registram todas as combinações"
 ```
 
