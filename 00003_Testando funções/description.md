@@ -9,7 +9,7 @@ O console é uma ferramenta muito útil para fazer testes rápidos sobre o que v
 20
 ```
 
-estamos dando um exemplo que mostra o que acontece quando você tenta a função `absoluto` no console. Você pode facilmente reconhecê-los porque todos começam com o símbolo `ム`, que é chamado de prompt.
+estamos dando um exemplo que mostra o que acontece quando você tenta a função `absoluto` no console. Você pode facilmente reconhecê-los porque todos começam com o símbolo `ム`, que é chamado de _prompt_.
 
 > Vamos ver se você vai entendendo, experimente as seguintes expressões no console:
 
