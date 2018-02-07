@@ -8,24 +8,24 @@ describe("", function() {
 })
 
 
-describe("triple", function() {
-  it("triple(1) é 3", function() {
-    assert.equal(triple(1), 3);
+describe("triplo", function() {
+  it("triplo(1) é 3", function() {
+    assert.equal(triplo(1), 3);
   });
-  it("triple(3) é 9", function() {
-    assert.equal(triple(3), 9);
+  it("triplo(3) é 9", function() {
+    assert.equal(triplo(3), 9);
   });
 })
 
-describe("anteriorDelTriple", function() {
-  it("anteriorDelTriple(1) é 2", function() {
-    assert.equal(anteriorDelTriple(1), 2);
+describe("anteriorDoTriplo", function() {
+  it("anteriorDoTriplo(1) é 2", function() {
+    assert.equal(anteriorDoTriplo(1), 2);
   });
-  it("anteriorDelTriple(3) é 8", function() {
-    assert.equal(anteriorDelTriple(3), 8);
+  it("anteriorDoTriplo(3) é 8", function() {
+    assert.equal(anteriorDoTriplo(3), 8);
   });
-  it("anteriorDelTriple(10) é 29", function() {
-    assert.equal(anteriorDelTriple(10), 29);
+  it("anteriorDoTriplo(10) é 29", function() {
+    assert.equal(anteriorDoTriplo(10), 29);
   });
 })
 
